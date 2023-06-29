@@ -1,4 +1,4 @@
-# Features of Dosify(Covid-19-Vaccination-Booking-Applicatio
+# Features of Dosify(Covid-19-Vaccination-Booking-Application)
 ---------------------
 
 1. I developed a set of APIs using Spring Boot, following RESTful principles. These APIs allowed users to perform various actions related to user management and vaccination tracking. Some key APIs I implemented include:
