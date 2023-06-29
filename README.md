@@ -13,7 +13,6 @@
 
 6. User Deletion: Created an API for deleting a user from the system using the /delete-user endpoint, which required specifying the user ID.
 
-7. To ensure the ease of API testing and documentation, I integrated Swagger, a popular API documentation tool. Additionally, I utilized DTOs (Data Transfer Objects) and transformers to ensure proper data mapping and manipulation within the application.
 
 ### Some key APIs I implemented for the doctor module include:
 --------------
@@ -44,4 +43,4 @@ These APIs greatly enhanced the management and retrieval of vaccination center-r
 2. Get Certificate: Developed the /get-certificate endpoint to allow users to retrieve their vaccination certificates based on their mobile number and dose number. This API accepted the mobile number and dose number as parameters and retrieved the corresponding certificate from the system. It handled scenarios where the user or certificate was not found, returning the appropriate error messages and response codes.
 3. The "Add Certificate" and "Get Certificate" APIs played a crucial role in managing and retrieving vaccination certificates within the COVID-19 Vaccination Booking Application, providing users with a secure and efficient way to store and access their vaccination records.
 
-
+## To ensure the ease of API testing and documentation, I integrated Swagger, a popular API documentation tool. Additionally, I utilized DTOs (Data Transfer Objects) and transformers to ensure proper data mapping and manipulation within the application.
